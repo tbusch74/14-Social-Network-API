@@ -21,7 +21,7 @@ Social Network API
 
   This application allows a user to call all of the CRUD operations in a noSQL database. Tha application is a mock social network API.
   
-  ![Social Network API Screenshot](/public/assets/screenshot.JPG)
+  ![Social Network API Screenshot](/public/assets/Screenshot.JPG)
 
   
   ## License
